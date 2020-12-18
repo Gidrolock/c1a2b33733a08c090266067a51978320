@@ -1,0 +1,2 @@
+# c1a2b33733a08c090266067a51978320
+App id 2, version name - 1.02.0
